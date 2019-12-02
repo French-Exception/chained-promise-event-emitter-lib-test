@@ -2,6 +2,9 @@
 
 ```bash
 git clone git@github.com:French-Exception/node-npm-chained-promise-event-emitter-lib.git
+
+or
+
 npm --save @frenchex/chained-promise-event-emitter-lib
 ```
 
