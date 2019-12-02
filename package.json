@@ -9,11 +9,19 @@
     "dev": "tsc -w",
     "cov": "nyc mocha -r ts-node/register -r source-map-support/register src/index.ts"
   },
-  "keywords": ["chain", "promise", "compact-code"],
-  "author": "Stéphane ERARD <serard06@protonmail.com",
+  "keywords": [
+    "chain",
+    "promise",
+    "compact-code"
+  ],
+  "author": "Stephane ERARD <serard06@protonmail.com",
   "license": "ISC",
-  "devDependencies": {
+  "repository": "git@github.com:French-Exception/npm-chained-promise-event-emitter-lib-test.git",
+  "dependencies": {
     "@log4js-node/log4js-api": "^1.0.2",
+    "@frenchex/chained-promise-event-emitter-lib": "^1.0.0"
+  },
+  "devDependencies": {
     "@types/chai": "^4.2.5",
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.12.14",
