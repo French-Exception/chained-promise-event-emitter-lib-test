@@ -1,14 +1,10 @@
 # Installation
 
 ```bash
-git clone git@github.com:French-Exception/node-npm-chained-promise-event-emitter-lib.git
-
-or
-
-npm --save @frenchex/chained-promise-event-emitter-lib
+npm install --save @frenchex/chained-promise-event-emitter-lib-test
 ```
 
 # Information
 
-This NPM package provides testing for the @frenchex/chained-promise-event-emitter-lib
+This NPM package provides testing code for the NPM package @frenchex/chained-promise-event-emitter-lib
 
